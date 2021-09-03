@@ -1,0 +1,1 @@
+This is a test project to clone the Google homepage, using VS Code to write HTML and CSS.  Additionally, I'm using Git to push changes from VS Code to Github for the first time.
