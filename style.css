@@ -1,3 +1,24 @@
+footer {
+    display: flex;
+    background-color: rgb(241, 241, 241);
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+li {
+    padding: 0 20px 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgb(82, 82, 82);
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+}
+
 .google-search-bar {
     width: 530px;
     height: 36px;
@@ -26,6 +47,24 @@
 .logo {
     width: 350px;
     height: auto;
+}
+
+.left-footer-options {
+    width: 50%;
+}
+
+.right-footer-options {
+    width: 50%;
+    padding-right: 20px;
+}
+
+.header-list {
+    float: right;
+    margin-bottom: 100px;
+}
+
+.right-list {
+    float: right;
 }
 
 .center-page {
